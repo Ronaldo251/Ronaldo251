@@ -1,7 +1,7 @@
 # Hello World! 🖖
 
 - 🔭 Em busca de uma vaga no mercado
-- 🌱 Estudando Python/Django
+- 🌱 Estudando Python / CyberSegurança
 - 👯 Procurando projetos em back-end ou front-end
 - 📫 Fale comigo!: naldoforrf@gmail.com 
 - 😄 Pronouns: Ele
