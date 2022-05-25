@@ -1,10 +1,8 @@
 # Hello World! 🖖
 
-- 🔭 Em busca de uma vaga no mercado
-- 🌱 Estudando Python / CyberSegurança
-- 👯 Procurando projetos em back-end ou front-end
+- 🔭 Em busca de uma vaga no mercado Full-Stack
+- 🌱 Programador Python
 - 📫 Fale comigo!: naldoforrf@gmail.com 
-- 😄 Pronouns: Ele
 
 <div align="center">
   <a href="https://github.com/ronaldo251">
