@@ -1,6 +1,6 @@
 # Hello World! 🖖
 
-- 🔭 Em busca de uma vaga no mercado Full-Stack
+- 🔭 Em busca de uma vaga no mercado Back-end
 - 🌱 Programador Python
 - 📫 Fale comigo!: naldoforrf@gmail.com 
 
