@@ -1,7 +1,7 @@
 # Hello World! 🖖
 
-- 🔭 Em busca de uma vaga no mercado Back-end
-- 🌱 Programador Python
+- 🔭 Em busca de uma vaga no mercado de Desenvolvimento
+- 🌱 Programador Python | REST | Django | PyQT | PySide
 - 📫 Fale comigo!: naldoforrf@gmail.com 
 
 <div align="center">
