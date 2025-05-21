@@ -26,9 +26,10 @@
   <a href = "mailto:naldoforrf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronaldo-fraga-49a11114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ### 🐍 Snake com meus commits recentes
+  ### 🐍 Snake com meus commits
 
-  ![snake gif](https://github.com/Ronaldo251/Ronaldo251/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Ronaldo251/Ronaldo251/output/github-contribution-grid-snake.svg)
+
 
 
  
