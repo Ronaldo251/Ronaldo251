@@ -27,10 +27,6 @@
   <a href="https://www.linkedin.com/in/ronaldo-fraga-49a11114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ### 🐍 Snake com meus commits
-
-![snake gif](https://raw.githubusercontent.com/Ronaldo251/Ronaldo251/main/dist/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/Ronaldo251/Ronaldo251/blob/output/dist/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/Ronaldo251/Ronaldo251/blob/main/dist/github-contribution-grid-snake.svg)
 ![snake dark gif](https://github.com/Ronaldo251/Ronaldo251/blob/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
