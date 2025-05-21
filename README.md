@@ -28,6 +28,10 @@
  
   ![Snake animation](https://github.com/ronaldo251/ronaldo251/blob/output/github-contribution-grid-snake.svg)
   ![snake gif](https://github.com/Ronaldo251/Ronaldo251/output/github-contribution-grid-snake.svg)
+  ### 🐍 Snake com meus commits recentes
+
+  ![snake gif](https://github.com/Ronaldo251/Ronaldo251/blob/output/github-contribution-grid-snake.svg)
+
 
  
 </div>
