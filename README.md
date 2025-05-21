@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/ronaldo-fraga-49a11114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ronaldo251/ronaldo251/blob/output/github-contribution-grid-snake.svg)
-  ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Ronaldo251/Ronaldo251/output/github-contribution-grid-snake.svg)
 
  
 </div>
