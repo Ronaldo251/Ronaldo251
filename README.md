@@ -1,7 +1,7 @@
-# Hello World! 🖖
+# Desenvolvedor Fullstack 🖖
 
-- 🔭 Em busca de uma vaga no mercado de Desenvolvimento
-- 🌱 Programador Python | REST | Django | PyQT | PySide
+- 🔭 Desenvolvedor FullStack na Secretaria de Comunicação do Ministério Público do Ceará
+- 🌱 Programador Python | Django | PyQT | PySide | PHP | JavaScript
 - 📫 Fale comigo!: naldoforrf@gmail.com 
 
 <div align="center">
