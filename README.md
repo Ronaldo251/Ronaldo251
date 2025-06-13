@@ -1,8 +1,38 @@
-# Desenvolvedor Fullstack 🖖
+🌐 Ronaldo de Oliveira Fraga
+Desenvolvedor Django | Estudante de Cibersegurança | Fortaleza - CE
 
-- 🔭 Desenvolvedor FullStack na Secretaria de Comunicação do Ministério Público do Ceará
-- 🌱 Programador Python | Django | PyQT | PySide | PHP | JavaScript
-- 📫 Fale comigo!: naldoforrf@gmail.com 
+Transformando ideias em sistemas reais — do back-end ao painel personalizado!
+
+👨‍💻 Atualmente trabalhando em:
+
+🔹 WebLog – plataforma Django com subdomínios, carrinho via WhatsApp, painel do lojista e admin completo
+
+🔹 Agenda Django – sistema com login, CRUD, Bootstrap, fotos de perfil e busca inteligente
+
+🔹 Reciclômetro – plugin WordPress que registra papel reciclado de forma automatizada
+
+🧠 Níveis de proficiência:
+
+🐍 Python / Django – Avançado (CRUD, autenticação, subdomínios, painéis, media files, ORM, etc.)
+
+🌐 HTML5 / CSS3 – Avançado (layouts responsivos, refatoração de templates, SVGs, UI moderna)
+
+🎨 Bootstrap – Intermediário a Avançado (tematização, grid system, modais, responsividade)
+
+🗃️ SQLite / Models Django – Intermediário (modelagem com relacionamentos, buscas e filtros)
+
+⚙️ WordPress / PHP – Intermediário (plugins personalizados, integração com páginas e arquivos)
+
+📡 Redes / SSH / Segurança – Iniciante a Intermediário (testes de conexão reversa, hotspot, fundamentos de segurança de rede)
+
+🖥️ JavaScript (JS) – Intermediário (interações de UI, comportamento dinâmico, sidebar, modais)
+
+🐧 Linux / Terminal – Intermediário (ambientes virtuais, git, SSH, estrutura de projetos)
+
+🎯 Objetivo: unir tecnologia e utilidade social, seja como dev, seja como futuro Policial Civil do Ceará.
+
+📬 Conecte-se comigo: naldoforrf@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/ronaldo251">
