@@ -1,11 +1,12 @@
-🌐 **Ronaldo de Oliveira Fraga**
-**Desenvolvedor Django | Estudante de Cibersegurança | Fortaleza - CE**
+# 🌐 **Ronaldo de Oliveira Fraga**  
+**Desenvolvedor FullStack na Secretaria de Comunicação do Ministério Público do Ceará**  
+**Estudante de Cibersegurança | Fortaleza - CE**
 
 Transformando ideias em sistemas reais — do back-end ao painel personalizado!
 
 ---
 
-👨‍💻 **Atualmente trabalhando em:**
+## 👨‍💻 **Atualmente trabalhando em:**
 
 🔹 **WebLog** – plataforma Django com subdomínios, carrinho via WhatsApp, painel do lojista e admin completo  
 🔹 **Agenda Django** – sistema com login, CRUD, Bootstrap, fotos de perfil e busca inteligente  
@@ -13,7 +14,7 @@ Transformando ideias em sistemas reais — do back-end ao painel personalizado!
 
 ---
 
-🧠 **Níveis de proficiência:**
+## 🧠 **Níveis de proficiência:**
 
 🐍 **Python / Django** – Avançado (CRUD, autenticação, subdomínios, painéis, media files, ORM, etc.)  
 🌐 **HTML5 / CSS3** – Avançado (layouts responsivos, refatoração de templates, SVGs, UI moderna)  
@@ -26,9 +27,9 @@ Transformando ideias em sistemas reais — do back-end ao painel personalizado!
 
 ---
 
-🎯 **Objetivo:** unir tecnologia e utilidade social, seja como dev, seja como futuro Policial Civil do Ceará.
+### 🎯 **Objetivo:** unir tecnologia e utilidade social, seja como dev, seja como futuro Policial Civil do Ceará.
 
-📬 **Conecte-se comigo:**   naldoforrf@gmail.com
+### 📬 **Conecte-se comigo:** naldoforrf@gmail.com
 
 
 <br><br>
