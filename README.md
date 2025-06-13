@@ -34,6 +34,9 @@ Transformando ideias em sistemas reais — do back-end ao painel personalizado!
 📬 Conecte-se comigo: naldoforrf@gmail.com
 
 
+
+
+
 <div align="center">
   <a href="https://github.com/ronaldo251">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldo251&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
