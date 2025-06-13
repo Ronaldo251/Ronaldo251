@@ -1,37 +1,34 @@
-🌐 Ronaldo de Oliveira Fraga
-Desenvolvedor Django | Estudante de Cibersegurança | Fortaleza - CE
+🌐 **Ronaldo de Oliveira Fraga**
+**Desenvolvedor Django | Estudante de Cibersegurança | Fortaleza - CE**
 
 Transformando ideias em sistemas reais — do back-end ao painel personalizado!
 
-👨‍💻 Atualmente trabalhando em:
+---
 
-🔹 WebLog – plataforma Django com subdomínios, carrinho via WhatsApp, painel do lojista e admin completo
+👨‍💻 **Atualmente trabalhando em:**
 
-🔹 Agenda Django – sistema com login, CRUD, Bootstrap, fotos de perfil e busca inteligente
+🔹 **WebLog** – plataforma Django com subdomínios, carrinho via WhatsApp, painel do lojista e admin completo  
+🔹 **Agenda Django** – sistema com login, CRUD, Bootstrap, fotos de perfil e busca inteligente  
+🔹 **Reciclômetro** – plugin WordPress que registra papel reciclado de forma automatizada
 
-🔹 Reciclômetro – plugin WordPress que registra papel reciclado de forma automatizada
+---
 
-🧠 Níveis de proficiência:
+🧠 **Níveis de proficiência:**
 
-🐍 Python / Django – Avançado (CRUD, autenticação, subdomínios, painéis, media files, ORM, etc.)
+🐍 **Python / Django** – Avançado (CRUD, autenticação, subdomínios, painéis, media files, ORM, etc.)  
+🌐 **HTML5 / CSS3** – Avançado (layouts responsivos, refatoração de templates, SVGs, UI moderna)  
+🎨 **Bootstrap** – Intermediário a Avançado (tematização, grid system, modais, responsividade)  
+🗃️ **SQLite / Models Django** – Intermediário (modelagem com relacionamentos, buscas e filtros)  
+⚙️ **WordPress / PHP** – Intermediário (plugins personalizados, integração com páginas e arquivos)  
+📡 **Redes / SSH / Segurança** – Iniciante a Intermediário (testes de conexão reversa, hotspot, fundamentos de segurança de rede)  
+🖥️ **JavaScript (JS)** – Intermediário (interações de UI, comportamento dinâmico, sidebar, modais)  
+🐧 **Linux / Terminal** – Intermediário (ambientes virtuais, git, SSH, estrutura de projetos)
 
-🌐 HTML5 / CSS3 – Avançado (layouts responsivos, refatoração de templates, SVGs, UI moderna)
+---
 
-🎨 Bootstrap – Intermediário a Avançado (tematização, grid system, modais, responsividade)
+🎯 **Objetivo:** unir tecnologia e utilidade social, seja como dev, seja como futuro Policial Civil do Ceará.
 
-🗃️ SQLite / Models Django – Intermediário (modelagem com relacionamentos, buscas e filtros)
-
-⚙️ WordPress / PHP – Intermediário (plugins personalizados, integração com páginas e arquivos)
-
-📡 Redes / SSH / Segurança – Iniciante a Intermediário (testes de conexão reversa, hotspot, fundamentos de segurança de rede)
-
-🖥️ JavaScript (JS) – Intermediário (interações de UI, comportamento dinâmico, sidebar, modais)
-
-🐧 Linux / Terminal – Intermediário (ambientes virtuais, git, SSH, estrutura de projetos)
-
-🎯 Objetivo: unir tecnologia e utilidade social, seja como dev, seja como futuro Policial Civil do Ceará.
-
-📬 Conecte-se comigo: naldoforrf@gmail.com
+📬 **Conecte-se comigo:**   naldoforrf@gmail.com
 
 
 <br><br>
