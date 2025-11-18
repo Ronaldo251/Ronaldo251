@@ -1,16 +1,16 @@
 # 🌐 **Ronaldo de Oliveira Fraga**  
 **Desenvolvedor FullStack na Secretaria de Comunicação do Ministério Público do Ceará**  
-**Estudante de Cibersegurança | Fortaleza - CE**
+**Especialista Python/Django | Fortaleza - CE**
 
-Transformando ideias em sistemas reais — do back-end ao painel personalizado!
+Desenvolvo soluções completas em Python/Django, com foco em desempenho e velocidade, organização de arquitetura e experiência real em aplicações utilizadas no dia a dia. Transformo requisitos em sistemas funcionais, escaláveis e bem estruturados.
 
 ---
 
 ## 👨‍💻 **Atualmente trabalhando em:**
 
-🔹 **WebLog** – plataforma Django com subdomínios, carrinho via WhatsApp, painel do lojista e admin completo  
-🔹 **Agenda Django** – sistema com login, CRUD, Bootstrap, fotos de perfil e busca inteligente  
-🔹 **Reciclômetro** – plugin WordPress que registra papel reciclado de forma automatizada
+🔹 **WebLog** – Plataforma de serviço completa em Django, com subdomínios para lojistas, carrinho de compras integrado ao WhatsApp, painel administrativo, painel do lojista, sistema de produtos, categorias e personalização da vitrine.
+🔹 **Agenda Django** – Sistema de agenda com login, CRUD completo, busca inteligente, paginação, upload de fotos de perfil, tema visual com Bootstrap e organização modular de templates.
+🔹 **Reciclômetro** – Sistema em PHP que registra automaticamente o total de amterial reciclado a partir de arquivos ou páginas, exibindo o acumulado no painel dedicado no MPCE.
 
 ---
 
@@ -34,7 +34,9 @@ Transformando ideias em sistemas reais — do back-end ao painel personalizado!
 
 <br><br>
 
-
+<head>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</head>
 <div align="center">
   <a href="https://github.com/ronaldo251">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldo251&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -42,12 +44,21 @@ Transformando ideias em sistemas reais — do back-end ao painel personalizado!
 </div>
   </div>
 <div style="display: inline_block"><br>
+  
+  
+          
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="Flask" height="30" width="40" style="background:white; padding:5px; border-radius:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+
+
+
+          
 </div>
 <div> 
   <a href="https://instagram.com/_sr.coronel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
