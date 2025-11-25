@@ -1,78 +1,51 @@
-# 🌐 **Ronaldo de Oliveira Fraga**  
-**Desenvolvedor FullStack na Secretaria de Comunicação do Ministério Público do Ceará**  
-**Especialista Python/Django | Fortaleza - CE**
+### Mas quem é Ronaldo Fraga?
 
-Desenvolvo soluções completas em Python/Django, com foco em desempenho e velocidade, organização de arquitetura e experiência real em aplicações utilizadas no dia a dia. Transformo requisitos em sistemas funcionais, escaláveis e bem estruturados.
+Desenvolvedor Full-Stack com especialização em **Python**, transformando dados complexos e requisitos de negócio em soluções web robustas, escaláveis e de alto impacto. Com experiência sólida no ecossistema **Django** para aplicações de larga escala e em **Flask** para a criação de APIs e micro-serviços de dados, meu foco é construir sistemas que sejam não apenas funcionais, mas também rápidos, bem arquitetados e intuitivos.
 
----
+Atualmente, atuo como Desenvolvedor na Secretaria de Comunicação do Ministério Público do Ceará, onde aplico tecnologia para gerar valor e otimizar processos.
 
-## 👨‍💻 **Atualmente trabalhando em:**
+🎯 **Meu objetivo:** Utilizar a tecnologia como uma ferramenta para gerar impacto social positivo, desenvolvendo soluções que promovam a segurança, a transparência e a eficiência no setor público, privado e em iniciativas cívicas.
 
-🔹 **WebLog** – Plataforma de serviço completa em Django, com subdomínios para lojistas, carrinho de compras integrado ao WhatsApp, painel administrativo, painel do lojista, sistema de produtos, categorias e personalização da vitrine.
-🔹 **Agenda Django** – Sistema de agenda com login, CRUD completo, busca inteligente, paginação, upload de fotos de perfil, tema visual com Bootstrap e organização modular de templates.
-🔹 **Reciclômetro** – Sistema em PHP que registra automaticamente o total de amterial reciclado a partir de arquivos ou páginas, exibindo o acumulado no painel dedicado no MPCE.
+📬 **Conecte-se comigo:** [naldoforrf@gmail.com](mailto:naldoforrf@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ronaldo-fraga-49a11114a/ )
 
 ---
 
-## 🧠 **Níveis de proficiência:**
+### 🚀 Principais Projetos
 
-🐍 **Python / Django** – Avançado (CRUD, autenticação, subdomínios, painéis, media files, ORM, etc.)  
-🌐 **HTML5 / CSS3** – Avançado (layouts responsivos, refatoração de templates, SVGs, UI moderna)  
-🎨 **Bootstrap** – Intermediário a Avançado (tematização, grid system, modais, responsividade)  
-🗃️ **SQLite / Models Django** – Intermediário (modelagem com relacionamentos, buscas e filtros)  
-⚙️ **WordPress / PHP** – Intermediário (plugins personalizados, integração com páginas e arquivos)  
-📡 **Redes / SSH / Segurança** – Iniciante a Intermediário (testes de conexão reversa, hotspot, fundamentos de segurança de rede)  
-🖥️ **JavaScript (JS)** – Intermediário (interações de UI, comportamento dinâmico, sidebar, modais)  
-🐧 **Linux / Terminal** – Intermediário (ambientes virtuais, git, SSH, estrutura de projetos)
+*   **Dashboard de Análise Criminal (Flask, Pandas, GeoPandas, Leaflet.js):**
+    *   Aplicação full-stack para análise interativa de dados de criminalidade no Ceará.
+    *   Backend com API RESTful em Flask, processamento de dados geoespaciais com GeoPandas e modelo preditivo com Scikit-learn.
+    *   Frontend com mapa coroplético interativo (Leaflet.js), múltiplos gráficos dinâmicos (Chart.js) e interface com popups arrastáveis e exportação de dados (CSV, PNG).
+
+*   **WebLog – Plataforma E-commerce (Django):**
+    *   Plataforma de serviço completa com subdomínios para lojistas, carrinho de compras integrado ao WhatsApp, painel administrativo e painel do lojista.
+    *   Arquitetura robusta com foco em escalabilidade e personalização de vitrines.
+
+*   **Agenda Django – Sistema de Contatos (Django):**
+    *   Sistema de agenda com autenticação, CRUD completo, busca inteligente, paginação e upload de fotos de perfil.
+    *   Demonstração de arquitetura modular e boas práticas em Django.
 
 ---
 
-### 🎯 **Objetivo:** unir tecnologia e utilidade social, seja como dev, seja como futuro Policial Civil do Ceará.
+### 🛠️ Habilidades e Tecnologias
 
-### 📬 **Conecte-se comigo:** naldoforrf@gmail.com
+#### Backend & Análise de Dados
+*   **Python:** Avançado
+*   **Django:** Avançado (ORM, Class-Based Views, REST Framework, Admin Customization)
+*   **Flask:** Intermediário a Avançado (Criação de APIs RESTful, Blueprints, Micro-serviços)
+*   **Pandas & GeoPandas:** Avançado (ETL, Limpeza de Dados, Análise, Manipulação de GeoJSON, Geometrias)
+*   **Scikit-learn:** Intermediário (Regressão Linear, Preparação de Modelos)
+*   **Bancos de Dados:** Intermediário (PostgreSQL, SQLite, Modelagem de Dados, Otimização de Queries)
 
+#### Frontend & Visualização de Dados
+*   **JavaScript (ES6+):** Intermediário a Avançado (Manipulação de DOM, AJAX, Eventos, Assincronicidade)
+*   **Leaflet.js:** Avançado (Camadas, Marcadores, Popups Customizados, Eventos, Interações Complexas)
+*   **Chart.js:** Avançado (Gráficos Dinâmicos, Múltiplos Tipos, Plugins, Integração com API)
+*   **jQuery & jQuery UI:** Avançado (Interatividade, UI Widgets como Draggable/Resizable)
+*   **HTML5 / CSS3:** Avançado (Layouts Responsivos, Flexbox, Grid, Animações)
+*   **Bootstrap:** Avançado (Grid System, Componentes, Tematização)
 
-<br><br>
-
-<head>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</head>
-<div align="center">
-  <a href="https://github.com/ronaldo251">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldo251&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldo251&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  </div>
-<div style="display: inline_block"><br>
-  
-  
-          
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Flask" height="30" width="40" style="background:white; padding:5px; border-radius:6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-
-
-
-          
-</div>
-<div> 
-  <a href="https://instagram.com/_sr.coronel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/belarus251" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/pimenta616" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:naldoforrf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ronaldo-fraga-49a11114a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![snake dark gif](https://github.com/Ronaldo251/Ronaldo251/blob/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-
-
-
-
-
- 
-</div>
+#### DevOps & Ferramentas
+*   **Git & GitHub:** Avançado (Versionamento, Branching, Pull Requests)
+*   **Linux / Terminal:** Intermediário (Ambientes Virtuais, SSH, Gerenciamento de Pacotes)
+*   **Testes Automatizados:** Intermediário (Pytest para validação de APIs)
