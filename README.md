@@ -11,7 +11,11 @@ Atualmente, atuo como Desenvolvedor na Secretaria de Comunicação do Ministéri
 ---
 
 ### 🚀 Principais Projetos
-
+* **Plataforma de Atendimento Omnichannel (AliDash) – Python, Django & DRF:**
+   *  Sistema Full Stack de Helpdesk com chat em tempo real e integração via API Restful para Widgets externos.
+   *  Inclui dashboards de métricas operacionais (TMA/TME), gestão de filas inteligentes por prioridade, monitoramento de infraestrutura e notificações automáticas via Django Signals.
+   *  Controle de funcionalidades por nível de acesso e por tipos de categorias de cadastro para colaboradores e clientes.
+     
 *   **Dashboard de Análise Criminal (Flask, Pandas, GeoPandas, Leaflet.js):**
     *   Aplicação full-stack para análise interativa de dados de criminalidade no Ceará.
     *   Backend com API RESTful em Flask, processamento de dados geoespaciais com GeoPandas e modelo preditivo com Scikit-learn.
